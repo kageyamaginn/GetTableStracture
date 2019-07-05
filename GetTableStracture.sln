@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetTableStracture", "GetTableStracture\GetTableStracture.csproj", "{2DA02A07-F676-42E8-AA6A-FF56ABC9A5BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Labs", "Labs", "{271E5884-FB3D-403B-B1E6-03CF4FCF16C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DA02A07-F676-42E8-AA6A-FF56ABC9A5BD}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{2DA02A07-F676-42E8-AA6A-FF56ABC9A5BD}.Debug|x64.ActiveCfg = Debug|x64
+		{2DA02A07-F676-42E8-AA6A-FF56ABC9A5BD}.Debug|x64.Build.0 = Debug|x64
+		{2DA02A07-F676-42E8-AA6A-FF56ABC9A5BD}.Debug|x86.ActiveCfg = Debug|x86
+		{2DA02A07-F676-42E8-AA6A-FF56ABC9A5BD}.Debug|x86.Build.0 = Debug|x86
+		{2DA02A07-F676-42E8-AA6A-FF56ABC9A5BD}.Release|Any CPU.ActiveCfg = Release|x86
+		{2DA02A07-F676-42E8-AA6A-FF56ABC9A5BD}.Release|x64.ActiveCfg = Release|x64
+		{2DA02A07-F676-42E8-AA6A-FF56ABC9A5BD}.Release|x64.Build.0 = Release|x64
+		{2DA02A07-F676-42E8-AA6A-FF56ABC9A5BD}.Release|x86.ActiveCfg = Release|x86
+		{2DA02A07-F676-42E8-AA6A-FF56ABC9A5BD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49015651-AFD7-4567-BE48-06EE74A45F42}
+	EndGlobalSection
+EndGlobal

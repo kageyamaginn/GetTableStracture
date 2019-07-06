@@ -1,4 +1,0 @@
-﻿tst, data source=wwwtst;user id=plm;password=testuser1;, 1
-dev, data source=wwwdev;user id=plm;password=testuser1;, 2
-etst, data source=etst;user id=xxuser;password=xxuser;, 1
-edev, data source=edev;user id=xxuser;password=xxuser;, 2

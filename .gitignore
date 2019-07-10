@@ -4,3 +4,6 @@ DataVisualization/OraCore/bin/Debug/netcoreapp2.1/OraCore.deps.json
 DataVisualization/OraCore/bin/
 DataVisualization/OraCore/obj/
 DataVisualization/.vs/
+DataVisualization/RegularTest/bin/
+DataVisualization/RegularTest/obj/
+DataVisualization/RegularTest/wwwroot/lib/
